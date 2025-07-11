@@ -1,4 +1,4 @@
-### 🚴 Hey there! I'm an incoming SDE at Amazon and newgrad from Yale University.
+### 🚴 Hey there! I'm an incoming SDE at Amazon and new grad from Yale University.
 
 You can reach me at [addisongoolsbee@gmail.com](mailto:addisongoolsbee@gmail.com), or check out my [resume](https://addisongoolsbee.com/resume.pdf)
 
